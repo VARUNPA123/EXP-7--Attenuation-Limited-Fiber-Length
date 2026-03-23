@@ -90,8 +90,12 @@ Your report should contain:
 
 <img width="245" height="331" alt="image" src="https://github.com/user-attachments/assets/727e89f6-069b-4f56-933d-f0667bc6f74d" />
 
+---
 
-<img width="1032" height="1450" alt="image" src="https://github.com/user-attachments/assets/94ce635b-133e-41fa-ae19-1e03b97c3243" />
+## Tablation
+
+<img width="317" height="247" alt="image" src="https://github.com/user-attachments/assets/1848bdb9-43c4-4925-a658-c2daa6ca919b" />
+
 
 ---
 
