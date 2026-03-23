@@ -88,13 +88,15 @@ Your report should contain:
 
 ## Calculation
 
-<img width="245" height="331" alt="image" src="https://github.com/user-attachments/assets/727e89f6-069b-4f56-933d-f0667bc6f74d" />
+<img width="382" height="487" alt="image" src="https://github.com/user-attachments/assets/0896621c-d782-4bfb-99ac-ec5eac54bae7" />
+
 
 ---
 
 ## Tablation
 
-<img width="317" height="247" alt="image" src="https://github.com/user-attachments/assets/1848bdb9-43c4-4925-a658-c2daa6ca919b" />
+<img width="498" height="392" alt="image" src="https://github.com/user-attachments/assets/77bc1671-c1fb-49c7-8fc5-2dc79ea86bcb" />
+
 
 
 ---
