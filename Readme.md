@@ -86,6 +86,23 @@ Your report should contain:
 
 ---
 
+## Block Diagram
+
+### Attenuation-Limited Fiber Length 2.5GB
+
+<img width="714" height="377" alt="image" src="https://github.com/user-attachments/assets/8d891e89-9bcb-4909-bfdf-33b63c1a40ec" />
+
+### Attenuation-Limited Fiber Length 10GB
+
+<img width="708" height="374" alt="image" src="https://github.com/user-attachments/assets/76ae60f1-b3c1-43c2-8fd1-da9feeb9c21e" />
+
+---
+
+## Graph
+
+<img width="1299" height="450" alt="image" src="https://github.com/user-attachments/assets/97d68ad7-3b2d-4bf8-bcb3-1d6d87c8e8a5" />
+
+---
 ## Calculation
 
 <img width="382" height="487" alt="image" src="https://github.com/user-attachments/assets/0896621c-d782-4bfb-99ac-ec5eac54bae7" />
@@ -93,7 +110,7 @@ Your report should contain:
 
 ---
 
-## Tablation
+## Tabulation
 
 <img width="498" height="392" alt="image" src="https://github.com/user-attachments/assets/77bc1671-c1fb-49c7-8fc5-2dc79ea86bcb" />
 
